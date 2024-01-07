@@ -1,5 +1,5 @@
 # CSGO-Pressure-GUN
-CSGO 罗技鼠标宏压枪lua文件 cs2亲测有效！！！
+CSGO 罗技鼠标压枪宏文件 cs2亲测有效！！！
 
 # 项目说明
 
